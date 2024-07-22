@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iveakleno.github.io/sitemap
+Sitemap: https://iveakleno.github.io/app/sitemap
+Sitemap: https://iveakleno.github.io/assets/sitemap
+Sitemap: https://iveakleno.github.io/css/sitemap
+Sitemap: https://iveakleno.github.io/includes/sitemap
+Sitemap: https://iveakleno.github.io/item/sitemap
+Sitemap: https://iveakleno.github.io/src/sitemap
